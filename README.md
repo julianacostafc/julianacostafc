@@ -21,7 +21,7 @@ Projeto de landing page travel desenvolvido no evento Jornada zero da Rocketseat
 ### [DevLinks](https://github.com/julianacostafc/DevLinks)
 O DevLinks é um agregador de links para usar como cartão de visitas online. Desenvolvi este projeto no curso Discover da Rocketseat.
 
-### [Jogo Memoria Mario)  (https://github.com/julianacostafc/Jogo-Memoria-Mario)
+### [Jogo Memoria Mario](https://github.com/julianacostafc/Jogo-Memoria-Mario)
 É um jogo de memória do mario , usado as tecnologias: CSS, Html, Javascript, Git, GitHub.
 ...
 
