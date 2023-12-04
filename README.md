@@ -5,9 +5,9 @@ Sou uma desenvolvedora de software apaixonada, com formação em análise de sis
 
 ## 🔧 Habilidades
 
-- **Linguagens de Programação:** [HTML, CSS, JAVASCRIPT).
+- **Linguagens de Programação:** [Html, CSS, Javascript, GIT).
   
-- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub,Projeto Scrum, metodologia ágil, POO,Trello, office intermediário, Windows, Linux, Mac OS, framework Bootstrap]
+- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub,Projeto Scrum, metodologia ágil, POO,Trello, office intermediário, Windows, Linux, Mac OS, framework Bootstrap, assistentes virtuais, Chat GPT, Team, Meet, google agenda]
   
 - **Banco de Dados:** [Conhecimentos básico em Banco de Dados MySQL Comunity, MYSQL Worbench]
   
@@ -20,8 +20,10 @@ Landing page travel projeto Rocketseat
 Projeto de landing page travel desenvolvido no evento Jornada zero da Rocketseat em março de 2023, utilizado principalmente as linguagens: CSS e HTML!
 
 ### [DevLinks](https://github.com/julianacostafc/DevLinks)
-O DevLinks é um agregador de links para usar como cartão de visitas online. e detalhes sobre o seu segundo projeto. Desenvolvi este projeto no curso Discover da Rocketseat.
+O DevLinks é um agregador de links para usar como cartão de visitas online. Desenvolvi este projeto no curso Discover da Rocketseat.
 
+### [Jogo Memoria Mario)  (https://github.com/julianacostafc/Jogo-Memoria-Mario)
+É um jogo de memória do mario , usado as tecnologias: CSS, Html, Javascript, Git, GitHub.
 ...
 
 ## 🌱 Atualmente estou aprendendo
@@ -30,7 +32,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online. e 
 
 ## 🤝 Vamos Conectar
 
-- LinkedIn: [[](https://www.linkedin.com/in/julianacostaadmti/)
+- LinkedIn:(https://www.linkedin.com/in/julianacostaadmti/)
 
 Sinta-se à vontade para entrar em contato se tiver alguma dúvida, ideias de colaboração ou apenas para se conectar!
 
