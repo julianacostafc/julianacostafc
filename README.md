@@ -7,7 +7,7 @@ Sou uma desenvolvedora web júnior apaixonada por tecnologia, com formação em 
 
 - **Linguagens de Programação:** [HTML, CSS, Javascript, Git).
   
-- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub,Projeto Scrum, metodologia ágil, ERP,POO,Trello, office intermediário, Windows, Linux, Mac OS, framework Bootstrap, assistentes virtuais, Chat GPT, Team, Meet,ZOM, DISCORD, Google agenda]
+- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub,Projeto Scrum, metodologia ágil, ERP,POO,Trello, office intermediário, Windows, Linux, Mac OS, framework Bootstrap, assistentes virtuais, Chat GPT, Team, Meet,Zoom, Discord, Google agenda]
   
 - **Banco de Dados:** [Conhecimentos básico em Banco de Dados MySQL Comunity, MYSQL Worbench]
   
