@@ -7,7 +7,7 @@ Sou uma desenvolvedora web júnior apaixonada por tecnologia, com formação em 
 
 - **Linguagens de Programação:** [HTML, CSS, Javascript, Git).
   
-- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub,Projeto Scrum, metodologia ágil, ERP,POO,Trello, office intermediário, Windows, Linux, Mac OS, framework Bootstrap, assistentes virtuais, Chat GPT, Team, Meet,Zoom, Discord, Google agenda]
+- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub, Projeto Scrum , metodologia ágil, ERP, POO ,Trello, office intermediário, Windows, Linux, Mac OS, framework Bootstrap, assistentes virtuais, Chat GPT, Team, Meet,Zoom, Discord, Google agenda]
   
 - **Banco de Dados:** [Conhecimentos básico em Banco de Dados MySQL Comunity, MYSQL Worbench]
   
@@ -16,7 +16,6 @@ Sou uma desenvolvedora web júnior apaixonada por tecnologia, com formação em 
 ## 🚀 Projetos
 
 ### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)
-Landing page travel projeto Rocketseat
 Projeto de landing page travel desenvolvido no evento Jornada zero da Rocketseat em março de 2023, utilizado principalmente as linguagens: CSS e HTML!
 
 ### [DevLinks](https://github.com/julianacostafc/DevLinks)
