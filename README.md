@@ -5,13 +5,13 @@ Sou uma desenvolvedora de software apaixonada, com formação em análise de sis
 
 ## 🔧 Habilidades
 
-- **Linguagens de Programação:** [Html, CSS, Javascript, GIT).
+- **Linguagens de Programação:** [Html, CSS, Javascript, Git).
   
-- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub,Projeto Scrum, metodologia ágil, POO,Trello, office intermediário, Windows, Linux, Mac OS, framework Bootstrap, assistentes virtuais, Chat GPT, Team, Meet, google agenda]
+- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub,Projeto Scrum, metodologia ágil, ERP,POO,Trello, office intermediário, Windows, Linux, Mac OS, framework Bootstrap, assistentes virtuais, Chat GPT, Team, Meet,ZOM, DISCORD, Google agenda]
   
 - **Banco de Dados:** [Conhecimentos básico em Banco de Dados MySQL Comunity, MYSQL Worbench]
   
-- **Administração de Empresas:** [Contas a pagar e receber, conciliação bancária, fluxo de caixa, cobrança, análise de crédito, controle de estoque.
+- **Administração de Empresas:** [Contas a pagar e receber, conciliação bancária, fluxo de caixa, cobrança, análise de crédito, controle de estoque, Liderança de equipe; Treinamento e seleção de funcionários, controle de entrada e saída de notas.
   
 ## 🚀 Projetos
 
