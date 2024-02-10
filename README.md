@@ -39,6 +39,7 @@ Esportes: Yoga, fitdance, alongamentos, caminhadas.
 ## 🤝 Vamos Conectar
 
 - LinkedIn:(https://www.linkedin.com/in/julianacostaadmti/)
+- Contato: julianaacosta1@hotmail.com
 
 Sinta-se à vontade para entrar em contato se tiver alguma dúvida, ideias de colaboração ou apenas para se conectar!
 
