@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou a Juliana!
+# 👋 Olá, eu sou Desenvolvedora Web Júnior Javascript!
 
 Sou uma desenvolvedora web júnior apaixonada por tecnologia, com formação em análise de sistemas e administração de empresas. Gosto de colaborar em projetos de programação e explorar novas tecnologias.
 
