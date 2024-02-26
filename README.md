@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou Juliana Costa!
 
-Sou uma desenvolvedora web júnior javascript apaixonada por tecnologia, com formação em análise de sistemas e administração de empresas. Gosto de colaborar em projetos de programação e explorar novas tecnologias.
+Sou uma desenvolvedora web júnior javascript, apaixonada por tecnologia, com formação em análise de sistemas e administração de empresas. Gosto de colaborar em projetos de programação e explorar novas tecnologias.
 
 ## 🔧 Habilidades
 
