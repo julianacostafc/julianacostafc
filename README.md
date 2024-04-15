@@ -16,7 +16,7 @@ Sou uma desenvolvedora web júnior javascript, apaixonada por tecnologia, com fo
 ## 🚀 Projetos
 
 ### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)
-Projeto de landing page travel desenvolvido no evento Jornada zero da Rocketseat em março de 2023, utilizado principalmente as linguagens: CSS e HTML!
+Projeto de landing page travel desenvolvido no evento Jornada zero da Rocketseat, utilizado principalmente as linguagens: CSS e HTML!
 
 ### [DevLinks](https://github.com/julianacostafc/DevLinks)
 O DevLinks é um agregador de links para usar como cartão de visitas online. Desenvolvi este projeto no curso Discover da Rocketseat.
