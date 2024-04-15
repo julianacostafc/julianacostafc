@@ -27,14 +27,11 @@ O DevLinks é um agregador de links para usar como cartão de visitas online. De
 
 🌱 Habilidades Pessoais: Empatia, seriedade, liderança, habilidade de aprendizado contínuo e comunicação eficaz.
 
-📚 Meus Interesses:
-
-Leitura e estudo de produtividade e neurociência.
-Esportes: Yoga, fitdance, alongamentos, caminhadas.
+ Esportes: Yoga, fitdance, alongamentos, caminhadas.
 
 ## 🌱 Atualmente estou aprendendo
 
-[Estou aprimorando minhas habilidades em : Javascript, CSS, HTML, frameworks,figma, programação].
+[Estou aprimorando minhas habilidades em : Javascript, CSS, HTML,frameworks, figma, programação, desenvolvimento web].
 
 ## 🤝 Vamos Conectar
 
