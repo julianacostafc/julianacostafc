@@ -15,7 +15,7 @@ Sou uma desenvolvedora web júnior javascript, apaixonada por tecnologia, com fo
   
 ## 🚀 Projetos
 
-### .[Desafio-Rocketsect](https://github.com/julianacostafc/Desafio-Rocketsect)
+### [Desafio-Rocketsect](https://github.com/julianacostafc/Desafio-Rocketsect)
 Projeto de uma landing de uma Empresa de Segurança, feito no Curso Explorer da Rocketseat em 2024, usando HTML, CSS, FIGMA!
 
 ### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)
