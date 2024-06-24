@@ -15,7 +15,7 @@ Sou uma desenvolvedora web júnior javascript, apaixonada por tecnologia, com fo
   
 ## 🚀 Projetos
 
-### Portfolio Juliana https://github.com/julianacostafc/Meu-Portfolio_Juliana_Costa
+### [Portfolio Juliana https://github.com/julianacostafc/Meu-Portfolio_Juliana_Costa]
 Projeto do meu portfolio e experiências profissionais, 2024.
 
 ### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)
