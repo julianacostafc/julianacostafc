@@ -14,9 +14,8 @@ Sou uma desenvolvedora web júnior javascript, apaixonada por tecnologia, com fo
 - **Administração de Empresas:** [Contas a pagar e receber, conciliação bancária, fluxo de caixa, cobrança, análise de crédito, controle de estoque, Liderança de equipe; Treinamento e seleção de funcionários, controle de entrada e saída de notas.
   
 ## 🚀 Projetos
-
-### [Desafio-Rocketsect](https://github.com/julianacostafc/Desafio-Rocketsect)
-Projeto de uma landing page de uma Empresa de Segurança, feito no Curso Explorer da Rocketseat em 2024, usando HTML, CSS, FIGMA!
+###.[Portfolio_Juliana (https://github.com/julianacostafc/Meu-Portfolio_Juliana_Costa)
+Projeto do meu portfolio e experiências profissionais, 2024.
 
 ### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)
 Projeto de landing page travel desenvolvido no evento Jornada zero da Rocketseat, utilizado principalmente as linguagens: CSS e HTML!
