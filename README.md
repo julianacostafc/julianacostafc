@@ -14,7 +14,7 @@ Sou uma desenvolvedora web júnior javascript, apaixonada por tecnologia, com fo
 - **Administração de Empresas:** [Contas a pagar e receber, conciliação bancária, fluxo de caixa, cobrança, análise de crédito, controle de estoque, Liderança de equipe; Treinamento e seleção de funcionários, controle de entrada e saída de notas.
   
 ## 🚀 Projetos
-###.[Portfolio_Juliana (https://github.com/julianacostafc/Meu-Portfolio_Juliana_Costa)
+### [Portfolio_Juliana (https://github.com/julianacostafc/Meu-Portfolio_Juliana_Costa)]
 Projeto do meu portfolio e experiências profissionais, 2024.
 
 ### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)
