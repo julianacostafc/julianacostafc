@@ -28,6 +28,8 @@ O DevLinks é um agregador de links para usar como cartão de visitas online. De
 É um jogo de memória do mario , usado as tecnologias: CSS, Html, Javascript, Git, GitHub.
 ...
 
+
+
 🌱 Habilidades Pessoais: Empatia, seriedade, liderança, habilidade de aprendizado contínuo e comunicação eficaz.
 
  Esportes: Yoga, fitdance, alongamentos, caminhadas.
