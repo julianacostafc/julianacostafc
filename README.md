@@ -40,7 +40,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online. De
 
 ## 🤝 Vamos Conectar
 
-- LinkedIn:(https://www.linkedin.com/in/julianacostaadmti/)
+- LinkedIn:(https://www.linkedin.com/in/julianacostaadm/)
 - Contato: julianaacosta1@hotmail.com
 
 Sinta-se à vontade para entrar em contato se tiver alguma dúvida, ideias de colaboração ou apenas para se conectar!
