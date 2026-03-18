@@ -14,9 +14,6 @@ Sou uma desenvolvedora web júnior javascript, apaixonada por tecnologia, com fo
   
 ## 🚀 Projetos
 
-### [Meu Portfolio](https://github.com/julianacostafc/Meu-Portfolio_Juliana_Costa)
-Projeto Portfolio
-
 ### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)
 Projeto de landing page travel desenvolvido no evento Jornada zero da Rocketseat, utilizado principalmente as linguagens: CSS e HTML!
 
