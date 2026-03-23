@@ -1,45 +1,42 @@
+# 👋 Hello, I'm Juliana Costa!
 
-# 👋 Olá, eu sou Juliana Costa!
+I'm a junior JavaScript web developer passionate about technology, with a background in Systems Analysis and Business Administration. I enjoy collaborating on programming projects and exploring new technologies.
 
-Sou uma desenvolvedora web júnior javascript, apaixonada por tecnologia, com formação em análise de sistemas e administração de empresas. Gosto de colaborar em projetos de programação e explorar novas tecnologias.
+## 🔧 Skills
 
-## 🔧 Habilidades
+- **Programming Languages:** HTML, CSS, JavaScript, Git  
+- **Web Technologies:** Figma, Notion, VSCode, Git, GitHub, Scrum projects, Agile methodology, Kanban, ERP, OOP, Trello, intermediate Office, Windows, Linux, macOS, Node.js, Angular, Bootstrap framework, virtual assistants, ChatGPT, Copilot, Gemini, Teams, Meet, Zoom, Discord, Google Calendar  
+- **Databases:** Basic knowledge of MySQL Community and MySQL Workbench  
 
-- **Linguagens de Programação:** [HTML, CSS, Javascript, Git).
-  
-- **Tecnologias Web:** [Figma, Notion, VSCode, Git, GitHub, Projeto Scrum , metodologia ágil, Kanban, ERP, POO ,Trello, office intermediário, Windows, Linux, Mac OS, Node.js,  Angular, framework Bootstrap, assistentes virtuais, Chat GPT, Copilot, Gemini, Team, Meet,Zoom, Discord, Google agenda]
-  
-- **Banco de Dados:** [Conhecimentos básico em Banco de Dados MySQL Comunity, MYSQL Worbench]
-  
-  
-## 🚀 Projetos
+## 🚀 Projects
 
-### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)
-Projeto de landing page travel desenvolvido no evento Jornada zero da Rocketseat, utilizado principalmente as linguagens: CSS e HTML!
+### [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)  
+A travel landing page developed during Rocketseat’s Jornada Zero event, using mainly HTML and CSS.
 
-### [DevLinks](https://github.com/julianacostafc/DevLinks)
-O DevLinks é um agregador de links para usar como cartão de visitas online. Desenvolvi este projeto no curso Discover da Rocketseat.
+### [DevLinks](https://github.com/julianacostafc/DevLinks)  
+DevLinks is a link aggregator used as an online business card. I developed this project during Rocketseat’s Discover course.
 
-### [Jogo Memoria Mario](https://github.com/julianacostafc/Jogo-Memoria-Mario)
-É um jogo de memória do mario , usado as tecnologias: CSS, Html, Javascript, Git, GitHub.
-...
+### [Mario Memory Game](https://github.com/julianacostafc/Jogo-Memoria-Mario)  
+A Mario-themed memory game built using HTML, CSS, JavaScript, Git, and GitHub.
+
+## 🌱 Personal Skills
+
+Empathy, responsibility, leadership, continuous learning, and effective communication.
+
+**Sports:** Yoga, fitdance, stretching, walking.
+
+## 🌱 Currently Learning
+
+Improving my skills in JavaScript, CSS, HTML, frameworks, Figma, programming, and web development.
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/julianacostaadm/  
+- **Email:** julianaacosta1@hotmail.com  
+
+Feel free to reach out if you have questions, collaboration ideas, or just want to connect!
 
 
-
-🌱 Habilidades Pessoais: Empatia, seriedade, liderança, habilidade de aprendizado contínuo e comunicação eficaz.
-
- Esportes: Yoga, fitdance, alongamentos, caminhadas.
-
-## 🌱 Atualmente estou aprendendo
-
-[Estou aprimorando minhas habilidades em : Javascript, CSS, HTML,frameworks, figma, programação, desenvolvimento web].
-
-## 🤝 Vamos Conectar
-
-- LinkedIn:(https://www.linkedin.com/in/julianacostaadm/)
-- Contato: julianaacosta1@hotmail.com
-
-Sinta-se à vontade para entrar em contato se tiver alguma dúvida, ideias de colaboração ou apenas para se conectar!
 
 
 
