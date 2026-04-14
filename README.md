@@ -32,19 +32,6 @@ I love building web interfaces, exploring new technologies, and collaborating on
 
 ---
 
-## 🚀 Projects
-
-### 🌍 [Landing Page Travel](https://github.com/julianacostafc/landing-page-travel)  
-A travel-themed landing page developed during Rocketseat’s Jornada Zero event using HTML and CSS.
-
-### 🔗 [DevLinks](https://github.com/julianacostafc/DevLinks)  
-DevLinks is a link aggregator used as an online business card. I developed this project during Rocketseat’s Discover course.
-
-### 🍄 [Mario Memory Game](https://github.com/julianacostafc/Jogo-Memoria-Mario)  
-A Mario-themed memory game built using HTML, CSS, JavaScript, Git, and GitHub.
-
----
-
 ## 🌱 Personal Skills
 
 ✨ Empathy  
